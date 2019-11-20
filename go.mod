@@ -1,4 +1,4 @@
-module gitlab-nid.stc/infrastructure/ipmitool_exporter
+module github.com/12bay/ipmitool_exporter
 
 go 1.12
 
